@@ -1,0 +1,77 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-inter: Inter;
+    --font-montserrat: Montserrat;
+    --font-my-soul: "My Soul";
+    --font-readex-pro: "Readex Pro";
+  
+    /* font sizes */
+    --font-size-11xl: 30px;
+    --font-size-lg: 18px;
+    --font-size-5xl: 24px;
+    --font-size-xl: 20px;
+    --font-size-base: 16px;
+    --font-size-19xl: 38px;
+    --font-size-3xl-3: 22.3px;
+    --font-size-lg: 18px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-gray-100: #919191;
+    --color-gray-200: rgba(255, 255, 255, 0.6);
+    --color-darkslategray-100: #495057;
+
+    /* Gaps */
+    --gap-39xl: 58px;
+    --gap-10xl: 29px;
+  
+    /* Paddings */
+    --padding-12xs: 1px;
+    --padding-xl: 20px;
+    --padding-50xl: 69px;
+    --padding-26xl: 45px;
+    --padding-10xl: 29px;
+    --padding-20xl: 39px;
+    --padding-xl: 20px;
+    --padding-54xl: 73px;
+    --padding-lgi: 19px;
+  
+    /* Border radiuses */
+    --br-5xs: 8px;
+    --br-3xs: 10px;
+    --br-8xs: 5px;
+  }
+  .remember-me-checkbox .v-input--selection-controls__ripple {
+    width: 24px;
+    height: 24px;
+    border-radius: 4px; /* Ajusta el borde redondeado según necesites */
+  }
+  
+  .remember-me-checkbox .v-input--selection-controls__input {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .remember-me-checkbox .v-input--selection-controls__input:after {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .remember-me-checkbox .v-input--selection-controls__input input {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .remember-me-checkbox .v-label {
+    color: white; /* Cambia el color del texto a blanco */
+  }
+  
+
